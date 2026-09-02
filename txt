@@ -1,0 +1,6 @@
+bugvip-tracker/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+└── particles.js

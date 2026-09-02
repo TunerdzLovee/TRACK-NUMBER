@@ -1,0 +1,6 @@
+bandwa-tracker/
+├── index.html (Halaman utama)
+├── style.css (Styling profesional)
+├── script.js (Core logic + tracking)
+└── assets/
+└── particles.js (Animasi background)

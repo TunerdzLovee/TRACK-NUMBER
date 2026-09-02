@@ -1,9 +1,0 @@
-bandwa-pro/
-├── index.html (Halaman utama - lightweight)
-├── style.css (Styling - di-minify + obfuscated)
-├── script.js (Logika utama - di-obfuscate)
-├── config.js (Konfigurasi - token, chat id, dll)
-├── assets/
-│ ├── particles.js (Animasi partikel)
-│ └── logo.svg (Logo custom)
-└── .htaccess (Opsional - proteksi direct access)
